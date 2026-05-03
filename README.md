@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Kekko 👋
 
-<!--
-**kekko-damato/kekko-damato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18 y/o from Puglia, Italy. Building SaaS and AI tools with Claude Code, Supabase, and AI agents.
 
-Here are some ideas to get you started:
+🛠 **Currently building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Nonna](https://github.com/kekko-damato/nonna)** — anti-sycophancy persona for Claude Code. Italian grandma reviewing your code, telling you the truth because she loves you. *12.5x more pushback on red-flag prompts vs default Claude.*
+- **[universal-form-compiler](https://github.com/kekko-damato/universal-form-compiler)** — Chrome extension for AI-powered form filling with anti-hallucination guardrails (TypeScript, Vite, Zod, OpenAI API).
+- Various AI tools and experiments with agentic workflows.
+
+📚 **Learning in public**
+
+Documenting my journey from student to indie hacker. Public build logs, drops, lessons.
+
+🌐 **Find me**
+
+- X: [@kekkodamato_](https://x.com/kekkodamato_)
+- IndieHackers: kekkodamato
+
+---
+
+⚡ **Stack**
+
+TypeScript · Python · Shell · React · Next.js · Supabase · Claude Code · OpenAI / Anthropic API
